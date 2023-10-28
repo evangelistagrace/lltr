@@ -1,0 +1,2311 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "GetSingleSharepointListItemConnections`1_2",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|cr18RABErgZlGkWDbPxcS6F111wmx8HO3tRxFHU",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow1",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|bHfnGTisMxx9tWb8IErIsgjbh1CoxepQ6WA3dskiU4",
+        "assemblyName": "Studio.Generated.TypedDataRow1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "GetSingleSharepointListItemConnections`1_2",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|yBiKFO8HAs1bZL3KAD3rFh6RCinTBQSadIiz8EBAoHc",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "field_0",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow2",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|mVgaklST9Aok6q9XVDYfUyzOQ3YOfFsaLRpfimaMjg",
+        "assemblyName": "Studio.Generated.TypedDataRow2"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 3,
+        "idRef": "GetListItemsConnections`1_1",
+        "hash": "GetListItemsConnections`1_1|DataTable|cr18RABErgZlGkWDbPxcS6F111wmx8HO3tRxFHU",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable3",
+        "hash": "GetListItemsConnections`1_1|DataTable|bHfnGTisMxx9tWb8IErIsgjbh1CoxepQ6WA3dskiU4",
+        "assemblyName": "Studio.Generated.TypedDataTable3"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 4,
+        "idRef": "GetListItemsConnections`1_1",
+        "hash": "GetListItemsConnections`1_1|DataTable|yBiKFO8HAs1bZL3KAD3rFh6RCinTBQSadIiz8EBAoHc",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "field_0",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable4",
+        "hash": "GetListItemsConnections`1_1|DataTable|mVgaklST9Aok6q9XVDYfUyzOQ3YOfFsaLRpfimaMjg",
+        "assemblyName": "Studio.Generated.TypedDataTable4"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 5,
+        "idRef": "GetSingleSharepointListItemConnections`1_1",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|cr18RABErgZlGkWDbPxcS6F111wmx8HO3tRxFHU",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow5",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|bHfnGTisMxx9tWb8IErIsgjbh1CoxepQ6WA3dskiU4",
+        "assemblyName": "Studio.Generated.TypedDataRow5"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 6,
+        "idRef": "GetSingleSharepointListItemConnections`1_1",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|yBiKFO8HAs1bZL3KAD3rFh6RCinTBQSadIiz8EBAoHc",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "field_0",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow6",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|mVgaklST9Aok6q9XVDYfUyzOQ3YOfFsaLRpfimaMjg",
+        "assemblyName": "Studio.Generated.TypedDataRow6"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 7,
+        "idRef": "GetSingleSharepointListItemConnections`1_2",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|ISLN2ok9GD5vSZim1tJyvOvyRKQPBcoHEN2hXUc",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow7",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|jECPHnnFKh3REihdLQda02NImO48PRwiR6oBBNdFNMk",
+        "assemblyName": "Studio.Generated.TypedDataRow7"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 8,
+        "idRef": "GetSingleSharepointListItemConnections`1_2",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|lgvYTaniPaKD0O3uB0HHl1wfHu1jz93wdRtTXCo",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow8",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|m4iz19gqhEqK30CVUUM1SkKOWw86rWRJo2Lchj5khc",
+        "assemblyName": "Studio.Generated.TypedDataRow8"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 9,
+        "idRef": "GetSingleSharepointListItemConnections`1_2",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|vLpcj119mG1zPT5aPr6AfzOy8wwgoiVX9ahGApErbY",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow9",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|hIpFXlXenMJsl7oqPwFUGhA3mfgQUrJfop54XGurd7o",
+        "assemblyName": "Studio.Generated.TypedDataRow9"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 10,
+        "idRef": "GetSingleSharepointListItemConnections`1_1",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|4dFuLo5RxesKluj8Wy5T7w0mRsuwPFQjSm5i3n6Ng",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow10",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|0DWciPwvTNJOtXY0mbhFTtmcxOQjP6ofyefi5rIK0",
+        "assemblyName": "Studio.Generated.TypedDataRow10"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 11,
+        "idRef": "GetSingleSharepointListItemConnections`1_1",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|v8DdlQoOvv0DvI4cuXXCinbpmBQtveQk8Kd32DV0p4",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow11",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|L4MbWrfmsr5XrDnI6CX3Hxm8fCmBXWm3LQJLXnjJTI",
+        "assemblyName": "Studio.Generated.TypedDataRow11"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 12,
+        "idRef": "GetSingleSharepointListItemConnections`1_1",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|vLpcj119mG1zPT5aPr6AfzOy8wwgoiVX9ahGApErbY",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow12",
+        "hash": "GetSingleSharepointListItemConnections`1_1|DataRow|hIpFXlXenMJsl7oqPwFUGhA3mfgQUrJfop54XGurd7o",
+        "assemblyName": "Studio.Generated.TypedDataRow12"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 13,
+        "idRef": "AddListItemConnections`1_1",
+        "hash": "AddListItemConnections`1_1|DataRow|MymMMZjvSOKj2F0zSwaVV8tXSO1Z8CwgbYRG5NAiI",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Skills",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow13",
+        "hash": "AddListItemConnections`1_1|DataRow|k1uaLwGJYt6cnOlfbSE4hA1pvJN7931a9g7HWlRLnY",
+        "assemblyName": "Studio.Generated.TypedDataRow13"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 14,
+        "idRef": "UpdateListItemConnections`1_1",
+        "hash": "UpdateListItemConnections`1_1|DataRow|MymMMZjvSOKj2F0zSwaVV8tXSO1Z8CwgbYRG5NAiI",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Skills",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow14",
+        "hash": "UpdateListItemConnections`1_1|DataRow|k1uaLwGJYt6cnOlfbSE4hA1pvJN7931a9g7HWlRLnY",
+        "assemblyName": "Studio.Generated.TypedDataRow14"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 15,
+        "idRef": "GetSingleSharepointListItemConnections`1_2",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|co7RqEPH1bP1cfr7IHHARqhMUnY0vGSnYm9R4XvoM8",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow15",
+        "hash": "GetSingleSharepointListItemConnections`1_2|DataRow|Lx8emsysl3bYTZNaKhL1B4r0FB2roIb1GH6A6MM5Ac",
+        "assemblyName": "Studio.Generated.TypedDataRow15"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 16,
+        "idRef": "UpdateListItemConnections`1_3",
+        "hash": "UpdateListItemConnections`1_3|DataRow|6TM9yLq1PyM5MYkM3f3VqWOTPBXw6I9U5zNwQKM",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CurrentProgress",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "EmailSecondary",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow16",
+        "hash": "UpdateListItemConnections`1_3|DataRow|Ep3b2PFyordVvgaUqbEWOKW7kORDCxGJfwOYN31E",
+        "assemblyName": "Studio.Generated.TypedDataRow16"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 17,
+        "idRef": "GetSingleSharepointListItemConnections`1_3",
+        "hash": "GetSingleSharepointListItemConnections`1_3|DataRow|TWojKdxeUoXiVvwqUmJdTFP5398plzacCjztcq88E",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow17",
+        "hash": "GetSingleSharepointListItemConnections`1_3|DataRow|6Jyev386NWUIRTV3nASeGKGmH5635xOdrBf6s7kTjw",
+        "assemblyName": "Studio.Generated.TypedDataRow17"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 18,
+        "idRef": "GetSingleSharepointListItemConnections`1_3",
+        "hash": "GetSingleSharepointListItemConnections`1_3|DataRow|6Mkk6ti0K5VulSTPOylwDjze9QV1jowttEbbnWHS4",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "CurrentProgress",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow18",
+        "hash": "GetSingleSharepointListItemConnections`1_3|DataRow|uG4Pq9W4oxdwn38JtdUsDcAQgCNk7yNEJ2vHKaiU",
+        "assemblyName": "Studio.Generated.TypedDataRow18"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 19,
+        "idRef": "GetListItemsConnections`1_1",
+        "hash": "GetListItemsConnections`1_1|DataTable|OGAg5GyOSWI4jG2klv3BoB8E50AzWSaYy1om5DCN8lM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "EmailSecondary",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable19",
+        "hash": "GetListItemsConnections`1_1|DataTable|MmHNSf22mAnMwcy1o0ckEFiLK271fVs17AXm2jklrY0",
+        "assemblyName": "Studio.Generated.TypedDataTable19"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 20,
+        "idRef": "GetListItemsConnections`1_1",
+        "hash": "GetListItemsConnections`1_1|DataTable|QHmHXV5BllnZA0Z0m4jI2HQMDAyrdN0Us4H6aoeudc",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "EmailSecondary",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable20",
+        "hash": "GetListItemsConnections`1_1|DataTable|0hiDUcvjn0zgIzPd684OV1SncvsxJ3WT4H9XHHrVk",
+        "assemblyName": "Studio.Generated.TypedDataTable20"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 21,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|cr18RABErgZlGkWDbPxcS6F111wmx8HO3tRxFHU",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable21",
+        "hash": "GetListItemsConnections`1_3|DataTable|bHfnGTisMxx9tWb8IErIsgjbh1CoxepQ6WA3dskiU4",
+        "assemblyName": "Studio.Generated.TypedDataTable21"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 22,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|v8DdlQoOvv0DvI4cuXXCinbpmBQtveQk8Kd32DV0p4",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable22",
+        "hash": "GetListItemsConnections`1_3|DataTable|L4MbWrfmsr5XrDnI6CX3Hxm8fCmBXWm3LQJLXnjJTI",
+        "assemblyName": "Studio.Generated.TypedDataTable22"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 23,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|q7PxyMUyqO6bwLjseag52gztuFu2CoiU3n8ol5aI",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable23",
+        "hash": "GetListItemsConnections`1_3|DataTable|rK8q497aEwLgZGxptyAC7m1yhLX4xE1LbVzCLYcW1bk",
+        "assemblyName": "Studio.Generated.TypedDataTable23"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 24,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|lwjqVsuRGIcVgLSAYWKJtlWEccXrVQlRUCuXVXMnM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable24",
+        "hash": "GetListItemsConnections`1_3|DataTable|LWOfIxmQErer9d5JqOi2XGj0RWLi76SWJbLTihqMhk",
+        "assemblyName": "Studio.Generated.TypedDataTable24"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 25,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|kOzE4nPJEUoKqxgKq2hmcAuDdgUNpoHdXkCSedm7M",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable25",
+        "hash": "GetListItemsConnections`1_3|DataTable|Ak5NGqcgTE5rsJOr5LOLJZ3nyPLF6enmQepM36D1W0w",
+        "assemblyName": "Studio.Generated.TypedDataTable25"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 26,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|NrjxSDxIlMxYNl6pbGOhpoUYtZMsqMMn0TlGoegpy0",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable26",
+        "hash": "GetListItemsConnections`1_3|DataTable|BwziH5BixGKPe48ZbhvixeW3ZgpjQyZTP4ah2VyT4",
+        "assemblyName": "Studio.Generated.TypedDataTable26"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 27,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|dma1FIv8VzwdWLZSnmuue4vvGcld69jEp4r2kcY",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable27",
+        "hash": "GetListItemsConnections`1_3|DataTable|Bg8eGyIAP78KY8Snm05G4XElbfT6GhWFLWICe5lhII",
+        "assemblyName": "Studio.Generated.TypedDataTable27"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 28,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|KzkbWuEcmFmz5t0AnZ38rSCykzh4q7eb3KZEimL96c",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable28",
+        "hash": "GetListItemsConnections`1_3|DataTable|uyLlgS9UrFyrBCHueKuVhLXywZNst9QC3QCpOmE0",
+        "assemblyName": "Studio.Generated.TypedDataTable28"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 29,
+        "idRef": "GetListItemsConnections`1_3",
+        "hash": "GetListItemsConnections`1_3|DataTable|WLVNMaUF3yUUIrDRRQxQUTdcsAB5GtcQU3LKmpZdHs",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable29",
+        "hash": "GetListItemsConnections`1_3|DataTable|6g76tCGlp6vUqc3b3x3KZ7RQijV5fWfOKvWKqfwU",
+        "assemblyName": "Studio.Generated.TypedDataTable29"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 30,
+        "idRef": "GetListItemsConnections`1_4",
+        "hash": "GetListItemsConnections`1_4|DataTable|WLVNMaUF3yUUIrDRRQxQUTdcsAB5GtcQU3LKmpZdHs",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable30",
+        "hash": "GetListItemsConnections`1_4|DataTable|6g76tCGlp6vUqc3b3x3KZ7RQijV5fWfOKvWKqfwU",
+        "assemblyName": "Studio.Generated.TypedDataTable30"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 31,
+        "idRef": "GetListItemsConnections`1_4",
+        "hash": "GetListItemsConnections`1_4|DataTable|glhNykXdzPplvqZG6Fnn4RPeDj5U8xdw9xB3csBwgm4",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Skills",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable31",
+        "hash": "GetListItemsConnections`1_4|DataTable|ndbXj07JcEAwLoN9jFxKePg25XBC6pCWgJRugw3XsE",
+        "assemblyName": "Studio.Generated.TypedDataTable31"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 32,
+        "idRef": "GetSingleSharepointListItemConnections`1_4",
+        "hash": "GetSingleSharepointListItemConnections`1_4|DataRow|cr18RABErgZlGkWDbPxcS6F111wmx8HO3tRxFHU",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow32",
+        "hash": "GetSingleSharepointListItemConnections`1_4|DataRow|bHfnGTisMxx9tWb8IErIsgjbh1CoxepQ6WA3dskiU4",
+        "assemblyName": "Studio.Generated.TypedDataRow32"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 33,
+        "idRef": "UpdateListItemConnections`1_3",
+        "hash": "UpdateListItemConnections`1_3|DataRow|nj961egwaMBoxwFVSX7li2QKNc7NCKOdC9tU5LgCP4",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CurrentProgress",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "EmailSecondary",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "IsNewlyAdded",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow33",
+        "hash": "UpdateListItemConnections`1_3|DataRow|xxRpc9PG5tRAUSycE9sPeHrKf1LAOLrbz3hYdWtSc",
+        "assemblyName": "Studio.Generated.TypedDataRow33"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 34,
+        "idRef": "UpdateListItemConnections`1_2",
+        "hash": "UpdateListItemConnections`1_2|DataRow|MymMMZjvSOKj2F0zSwaVV8tXSO1Z8CwgbYRG5NAiI",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Skills",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow34",
+        "hash": "UpdateListItemConnections`1_2|DataRow|k1uaLwGJYt6cnOlfbSE4hA1pvJN7931a9g7HWlRLnY",
+        "assemblyName": "Studio.Generated.TypedDataRow34"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 35,
+        "idRef": "GetListItemsConnections`1_5",
+        "hash": "GetListItemsConnections`1_5|DataTable|cr18RABErgZlGkWDbPxcS6F111wmx8HO3tRxFHU",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable35",
+        "hash": "GetListItemsConnections`1_5|DataTable|bHfnGTisMxx9tWb8IErIsgjbh1CoxepQ6WA3dskiU4",
+        "assemblyName": "Studio.Generated.TypedDataTable35"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 36,
+        "idRef": "GetListItemsConnections`1_5",
+        "hash": "GetListItemsConnections`1_5|DataTable|co7RqEPH1bP1cfr7IHHARqhMUnY0vGSnYm9R4XvoM8",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable36",
+        "hash": "GetListItemsConnections`1_5|DataTable|Lx8emsysl3bYTZNaKhL1B4r0FB2roIb1GH6A6MM5Ac",
+        "assemblyName": "Studio.Generated.TypedDataTable36"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 37,
+        "idRef": "GetSingleSharepointListItemConnections`1_5",
+        "hash": "GetSingleSharepointListItemConnections`1_5|DataRow|cr18RABErgZlGkWDbPxcS6F111wmx8HO3tRxFHU",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow37",
+        "hash": "GetSingleSharepointListItemConnections`1_5|DataRow|bHfnGTisMxx9tWb8IErIsgjbh1CoxepQ6WA3dskiU4",
+        "assemblyName": "Studio.Generated.TypedDataRow37"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 38,
+        "idRef": "GetSingleSharepointListItemConnections`1_5",
+        "hash": "GetSingleSharepointListItemConnections`1_5|DataRow|co7RqEPH1bP1cfr7IHHARqhMUnY0vGSnYm9R4XvoM8",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow38",
+        "hash": "GetSingleSharepointListItemConnections`1_5|DataRow|Lx8emsysl3bYTZNaKhL1B4r0FB2roIb1GH6A6MM5Ac",
+        "assemblyName": "Studio.Generated.TypedDataRow38"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 39,
+        "idRef": "GetSingleSharepointListItemConnections`1_6",
+        "hash": "GetSingleSharepointListItemConnections`1_6|DataRow|XdggAa8zL5wUW0bcOTBr1xRhBrH0WQHu0ni6HrfvJY",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "CurrentProgress",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow39",
+        "hash": "GetSingleSharepointListItemConnections`1_6|DataRow|88kR3tVYgF3RFIMir6XZzX62cS2TV0M5vrSZGCvpZ4",
+        "assemblyName": "Studio.Generated.TypedDataRow39"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 40,
+        "idRef": "GetSingleSharepointListItemConnections`1_6",
+        "hash": "GetSingleSharepointListItemConnections`1_6|DataRow|6Mkk6ti0K5VulSTPOylwDjze9QV1jowttEbbnWHS4",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "CurrentProgress",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow40",
+        "hash": "GetSingleSharepointListItemConnections`1_6|DataRow|uG4Pq9W4oxdwn38JtdUsDcAQgCNk7yNEJ2vHKaiU",
+        "assemblyName": "Studio.Generated.TypedDataRow40"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 41,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|TWojKdxeUoXiVvwqUmJdTFP5398plzacCjztcq88E",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow41",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|6Jyev386NWUIRTV3nASeGKGmH5635xOdrBf6s7kTjw",
+        "assemblyName": "Studio.Generated.TypedDataRow41"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 42,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|fsFDMT8t8mfnLucrMrrx6z9OZk7GOwdPDf7satLcpxU",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow42",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|dE0nP6jdfYvMednTwkoEpxqQFFHj2wqdMM0yQ4bydXk",
+        "assemblyName": "Studio.Generated.TypedDataRow42"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 43,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|YQkj6iFegbldRzYRojio0pnwUxzuy9CQqd5MIKLOBc",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow43",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|W6mtS84DgvtaDqxV0vWwG0k6glss2T2ybTeMR6vx8",
+        "assemblyName": "Studio.Generated.TypedDataRow43"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 44,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|1I8jXbRhrX3TxVOGk5eSvBg5PTNbfhZCM3HV9aKDB0I",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow44",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|qkj22lJ1ZmcqSIRPlH69eiUVkJPtKCORGgIQJWeMa6A",
+        "assemblyName": "Studio.Generated.TypedDataRow44"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 45,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|vYp8NSCJ8qinKDIXJ8ejE59MVWyoyHv1pfJAIDgs0",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow45",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|8UeQZa1QEhc8Auqv7ui5ymhsNc4uefX8VlCaMKY0",
+        "assemblyName": "Studio.Generated.TypedDataRow45"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 46,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|kHcN3G6qfuraBtb3k5QRm9L0Fwa3cnWLnEccEFGt4",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow46",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|cknVkUMTJzPa0KTIOwHrYpLLKIO99SRsF1FfAuxR4M",
+        "assemblyName": "Studio.Generated.TypedDataRow46"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 47,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|LksEqWNrP7rledRVMFMsWVmXWtIS9rEKeGCm0pk4hE",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow47",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|lB7qAGW3wFc8Pocgxbvx56HBvj4NTU8MGsYfdI4HQ",
+        "assemblyName": "Studio.Generated.TypedDataRow47"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 48,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|vYyGlqpWwVGzPothEvxz4j3kdDJLr84qYrubdBlz0",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow48",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|Ghn212v8VmqCrr23vMAiWJgqzGsBbFeV3XbbPjnaQ",
+        "assemblyName": "Studio.Generated.TypedDataRow48"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 49,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|KMCBxJIMe4diDsMwl7G5LzS8beBDVZjsLx0CSRNsraY",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "MinutesViewed",
+            "dataType": "System.Object, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow49",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|wHrRSlsNtgscIhbPzrHYKveZXa7EEgdmVQvf75e8NQ0",
+        "assemblyName": "Studio.Generated.TypedDataRow49"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 50,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|Rn4mCaI70R8jQB0nEWZDqNbXDSH8ZqNS9yw9Rw",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Month",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow50",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|2LjYPdsAZtkX2agmM0RS0Vmx6VBWHn7ML7zVEG1I",
+        "assemblyName": "Studio.Generated.TypedDataRow50"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 51,
+        "idRef": "GetSingleSharepointListItemConnections`1_7",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|4IQN6kherZX1vfzOKvxUp6vKwTBAOgtdHKAtpY5sGI",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow51",
+        "hash": "GetSingleSharepointListItemConnections`1_7|DataRow|LXjfRZzuuTKZpzPOhXFuMdCObajZ4JopfMSIkd448D0",
+        "assemblyName": "Studio.Generated.TypedDataRow51"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 52,
+        "idRef": "GetSingleSharepointListItemConnections`1_8",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|TWojKdxeUoXiVvwqUmJdTFP5398plzacCjztcq88E",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow52",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|6Jyev386NWUIRTV3nASeGKGmH5635xOdrBf6s7kTjw",
+        "assemblyName": "Studio.Generated.TypedDataRow52"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 53,
+        "idRef": "GetSingleSharepointListItemConnections`1_8",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|fsFDMT8t8mfnLucrMrrx6z9OZk7GOwdPDf7satLcpxU",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow53",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|dE0nP6jdfYvMednTwkoEpxqQFFHj2wqdMM0yQ4bydXk",
+        "assemblyName": "Studio.Generated.TypedDataRow53"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 54,
+        "idRef": "GetSingleSharepointListItemConnections`1_8",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|J6S31W2CG6prmo5H3OhTfh2fnRgYQZBK7F0ql7OSso0",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow54",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|M3x7ZYnqA1pAGgwfunX4ZNJafwL0f8gPwj9vEN5BFFI",
+        "assemblyName": "Studio.Generated.TypedDataRow54"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 55,
+        "idRef": "GetSingleSharepointListItemConnections`1_8",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|1I8jXbRhrX3TxVOGk5eSvBg5PTNbfhZCM3HV9aKDB0I",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow55",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|qkj22lJ1ZmcqSIRPlH69eiUVkJPtKCORGgIQJWeMa6A",
+        "assemblyName": "Studio.Generated.TypedDataRow55"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 56,
+        "idRef": "GetSingleSharepointListItemConnections`1_8",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|xEZynH7cX6TePUJZbqK7NGmjb9MI46faA2OUym0vWII",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow56",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|Yki1aePxBG3T4Z72HLGVGKi6WrCFRBi4nlprVqzc",
+        "assemblyName": "Studio.Generated.TypedDataRow56"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 57,
+        "idRef": "GetSingleSharepointListItemConnections`1_8",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|2kQN08N2OiJ2iN0btejLvGHAxpSegWZaZBYtdUxYXw",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow57",
+        "hash": "GetSingleSharepointListItemConnections`1_8|DataRow|vGb8yxrb6oiC1ChRHV5WW24ZqTZFoFmDVBICvDC4w",
+        "assemblyName": "Studio.Generated.TypedDataRow57"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 58,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|TWojKdxeUoXiVvwqUmJdTFP5398plzacCjztcq88E",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow58",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|6Jyev386NWUIRTV3nASeGKGmH5635xOdrBf6s7kTjw",
+        "assemblyName": "Studio.Generated.TypedDataRow58"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 59,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|co7RqEPH1bP1cfr7IHHARqhMUnY0vGSnYm9R4XvoM8",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow59",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|Lx8emsysl3bYTZNaKhL1B4r0FB2roIb1GH6A6MM5Ac",
+        "assemblyName": "Studio.Generated.TypedDataRow59"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 60,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|uiln2QaCgtQUk8QX1HN53P4MfhDsBjH8wM6NdU7s",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow60",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|AMk0KGW73KJpTLPreOMjFqWUVDq5o2uwi5KgMokq070",
+        "assemblyName": "Studio.Generated.TypedDataRow60"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 61,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|xTHnQoAWgijCXWik1pPSHa6lCJedRb3a9esrU9Aw",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow61",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|vsG24FTP696lVIFK1lZbFyX7vHCPytQkfYO7c7HcTRo",
+        "assemblyName": "Studio.Generated.TypedDataRow61"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 62,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|0HPqbSUEIoQmyObC7eTvKXx7048jzgkDAFaeLXzhUw",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow62",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|i4UWM8AUIucj8oJ8sjQzS2WvHkUMryUODcEjn9FBszQ",
+        "assemblyName": "Studio.Generated.TypedDataRow62"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 63,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|xlITjVqgNNdh9HjQ4Xd3jBMggOVgsobdB5TPBW9sRcA",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow63",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|9V74jJpjjTePYMcEICra9V1PiMS9uktvVOCvRcnTurA",
+        "assemblyName": "Studio.Generated.TypedDataRow63"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 64,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|wW67xB2BC8FRYuLitqcNqUhOthJDl9bpTSqToexq8",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow64",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|U0Exm5YHq9NJ20jTdaAEFcwWLMVh5so2p0Upa0THFJU",
+        "assemblyName": "Studio.Generated.TypedDataRow64"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 65,
+        "idRef": "GetSingleSharepointListItemConnections`1_10",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|BKJTwN2ehQPEZT4V9BzPR8o2z42bxUcdIaw9AkJ16Q",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow65",
+        "hash": "GetSingleSharepointListItemConnections`1_10|DataRow|Py68nUkcogaBgzJ3P7sI1CH7Hrhz5pm9T0sjRy7DOg",
+        "assemblyName": "Studio.Generated.TypedDataRow65"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 66,
+        "idRef": "GetSingleSharepointListItemConnections`1_11",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|TWojKdxeUoXiVvwqUmJdTFP5398plzacCjztcq88E",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow66",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|6Jyev386NWUIRTV3nASeGKGmH5635xOdrBf6s7kTjw",
+        "assemblyName": "Studio.Generated.TypedDataRow66"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 67,
+        "idRef": "GetSingleSharepointListItemConnections`1_11",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|CH4l5j7ocIYb4kmdyhWcbxvqTdMcnLwqV4J3gbum6k",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow67",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|SjnE6C1XYtl9WD73GmyGMT6OnBP1SeNBAcYiX8nmfk",
+        "assemblyName": "Studio.Generated.TypedDataRow67"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 68,
+        "idRef": "GetSingleSharepointListItemConnections`1_11",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|J6S31W2CG6prmo5H3OhTfh2fnRgYQZBK7F0ql7OSso0",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow68",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|M3x7ZYnqA1pAGgwfunX4ZNJafwL0f8gPwj9vEN5BFFI",
+        "assemblyName": "Studio.Generated.TypedDataRow68"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 69,
+        "idRef": "GetSingleSharepointListItemConnections`1_11",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|1I8jXbRhrX3TxVOGk5eSvBg5PTNbfhZCM3HV9aKDB0I",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow69",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|qkj22lJ1ZmcqSIRPlH69eiUVkJPtKCORGgIQJWeMa6A",
+        "assemblyName": "Studio.Generated.TypedDataRow69"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 70,
+        "idRef": "GetSingleSharepointListItemConnections`1_11",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|xEZynH7cX6TePUJZbqK7NGmjb9MI46faA2OUym0vWII",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow70",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|Yki1aePxBG3T4Z72HLGVGKi6WrCFRBi4nlprVqzc",
+        "assemblyName": "Studio.Generated.TypedDataRow70"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 71,
+        "idRef": "GetSingleSharepointListItemConnections`1_11",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|2kQN08N2OiJ2iN0btejLvGHAxpSegWZaZBYtdUxYXw",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow71",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|vGb8yxrb6oiC1ChRHV5WW24ZqTZFoFmDVBICvDC4w",
+        "assemblyName": "Studio.Generated.TypedDataRow71"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 72,
+        "idRef": "GetSingleSharepointListItemConnections`1_11",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|4IQN6kherZX1vfzOKvxUp6vKwTBAOgtdHKAtpY5sGI",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "DaysLoggedIn",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "HoursViewed",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CourseCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "VideoCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "PathCompletions",
+            "dataType": "System.Decimal, System.Private.CoreLib"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow72",
+        "hash": "GetSingleSharepointListItemConnections`1_11|DataRow|LXjfRZzuuTKZpzPOhXFuMdCObajZ4JopfMSIkd448D0",
+        "assemblyName": "Studio.Generated.TypedDataRow72"
+      }
+    }
+  ]
+}
